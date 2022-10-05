@@ -1,5 +1,7 @@
 # @npm-types-package
 
+![image info](./logo.png)
+
 ## Install
 To install a package in your project, you need to add an entry to the `devDependencies` object in your package.json file 
 
